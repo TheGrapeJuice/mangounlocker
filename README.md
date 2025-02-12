@@ -28,8 +28,8 @@ Easily remove games you no longer want in your library through the **Game Remova
 
 ![Remove Games](https://cdn.discordapp.com/attachments/712808939384995950/1339086423139291177/image.png?ex=67ad70ea&is=67ac1f6a&hm=865d27e7368546e693ddb83ee0414378e0a0b6ad3fcae14a2ac8799360d4c591&)
 
-### 5. **Massive Game Database**
-Access a vast, ever-growing database of games. Whether you're into AAA titles or indie gems, Mango Unlocker has you covered.
+### 5. **Massive Game/DLC Database**
+Access a vast, ever-growing database of games and dlcs. Whether you're into AAA titles or indie gems, Mango Unlocker has you covered.
 
 ### 6. **Active Community Support**
 Join our vibrant Discord community for quick support, feature requests, and updates.
@@ -49,11 +49,9 @@ Mango Unlocker uses a secure key system to ensure safe and authorized access. To
 ## 🗑️ **Removing Games from Your Library**
 To remove games:
 1. Open Mango Unlocker.
-2. Navigate to the **Game Removal Tool**.
+2. Navigate to the **Remove Game**.
 3. Select the game(s) you wish to remove.
 4. Confirm your selection.
-
-*Insert an image of the game removal process here.*
 
 ---
 
