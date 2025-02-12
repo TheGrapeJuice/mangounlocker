@@ -7,10 +7,10 @@ Welcome to **Mango Unlocker**, the ultimate tool designed to enhance your gaming
 
 ## 🚀 **Key Features**
 
-### 1. **Add Games Seamlessly**
-Mango Unlocker lets you add almost any game to your Steam library with just a few clicks. These games are locally added to your account, making them appear as if they are natively installed through Steam.
+### 1. **Add Games/DLC Seamlessly**
+Mango Unlocker lets you add almost any game and dlc to your Steam library with just a few clicks. These games and dlcs are locally added to your account, making them appear as if they are natively installed through Steam.
 
-![Add Games](https://media.discordapp.net/attachments/712808939384995950/1336580068146937897/image.png?ex=67a452b0&is=67a30130&hm=94e4e5ffc7bf9f39f42839ca93aba152105a890d281e05ef00370cfb430b2197&=&format=webp&quality=lossless&width=810&height=573)
+![Add Games](https://cdn.discordapp.com/attachments/712808939384995950/1339086422866657332/image.png?ex=67ad70ea&is=67ac1f6a&hm=0da5e22c8c5c4dd65a982ef99bf646a77195c8650eabbc0b49a4c9e49435605d&)
 
 ### 2. **Direct Downloads from Steam Servers**
 No need for external downloads or unreliable sources. Mango Unlocker tricks Steam into recognizing the games as owned, allowing you to download them directly from Steam's secure servers.
@@ -21,12 +21,12 @@ No need for external downloads or unreliable sources. Mango Unlocker tricks Stea
 ### 3. **Multiplayer Fix**
 While locally added games don't support native multiplayer, Mango Unlocker offers a **Multiplayer Fix**. This feature enables multiplayer functionality for any game with multiplayer capabilities.
 
-![Multiplayer Fix](https://media.discordapp.net/attachments/712808939384995950/1336580068645933146/image.png?ex=67a452b0&is=67a30130&hm=62e6679d670963f7c0cc091e5b0a83eef43fef55b84a50d99b88f97c0c52a4bc&=&format=webp&quality=lossless&width=810&height=573)
+![Multiplayer Fix](https://cdn.discordapp.com/attachments/712808939384995950/1339086423483219979/image.png?ex=67ad70ea&is=67ac1f6a&hm=3f189ff55610fd77f7214b9644c3292225e61455f2e1fdf9fc52a780152624eb&)
 
 ### 4. **Game Management**
 Easily remove games you no longer want in your library through the **Game Removal Tool**. Keep your library organized and clutter-free.
 
-![Remove Games](https://media.discordapp.net/attachments/712808939384995950/1336580068398600303/image.png?ex=67a452b0&is=67a30130&hm=747d4238b727d77673772b9540b808481abc5d608d942b9bb56ff90b0a33e53d&=&format=webp&quality=lossless&width=810&height=573)
+![Remove Games](https://cdn.discordapp.com/attachments/712808939384995950/1339086423139291177/image.png?ex=67ad70ea&is=67ac1f6a&hm=865d27e7368546e693ddb83ee0414378e0a0b6ad3fcae14a2ac8799360d4c591&)
 
 ### 5. **Massive Game Database**
 Access a vast, ever-growing database of games. Whether you're into AAA titles or indie gems, Mango Unlocker has you covered.
