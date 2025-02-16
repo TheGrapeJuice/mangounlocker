@@ -21,12 +21,12 @@ No need for external downloads or unreliable sources. Mango Unlocker tricks Stea
 ### 3. **Multiplayer Fix**
 While locally added games don't support native multiplayer, Mango Unlocker offers a **Multiplayer Fix**. This feature enables multiplayer functionality for any game with multiplayer capabilities.
 
-![Multiplayer Fix](https://cdn.discordapp.com/attachments/712808939384995950/1339086423483219979/image.png?ex=67ad70ea&is=67ac1f6a&hm=3f189ff55610fd77f7214b9644c3292225e61455f2e1fdf9fc52a780152624eb&)
+![Multiplayer Fix](https://cdn.discordapp.com/attachments/1304166362091884597/1340802492325302353/image.png?ex=67b3af21&is=67b25da1&hm=fc29ba486c6cd29de78374ea5cd0e7d3604f9fc31ce826f6b728573dfdf518cb&)
 
 ### 4. **Game Management**
 Easily remove games you no longer want in your library through the **Game Removal Tool**. Keep your library organized and clutter-free.
 
-![Remove Games](https://cdn.discordapp.com/attachments/712808939384995950/1339086423139291177/image.png?ex=67ad70ea&is=67ac1f6a&hm=865d27e7368546e693ddb83ee0414378e0a0b6ad3fcae14a2ac8799360d4c591&)
+![Remove Games](https://cdn.discordapp.com/attachments/1304166362091884597/1340802491947683942/image.png?ex=67b3af20&is=67b25da0&hm=26845b6d3f73e940d23385ed1a72ca5e28212d554cbc9af6a0921383835afca2&)
 
 ### 5. **Massive Game/DLC Database**
 Access a vast, ever-growing database of games and dlcs. Whether you're into AAA titles or indie gems, Mango Unlocker has you covered.
