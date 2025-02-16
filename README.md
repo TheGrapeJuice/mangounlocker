@@ -3,7 +3,7 @@
 Welcome to **Mango Unlocker**, the ultimate tool designed to enhance your gaming experience on **Steam**. Mango Unlocker allows you to expand your game library effortlessly, manage your collection, and even enable multiplayer features with ease.
 
 ---
-![Mango Unlocker UI]([https://media.discordapp.net/attachments/712808939384995950/1336580067773517935/image.png?ex=67a452b0&is=67a30130&hm=af728d3b590f02dfd2cb2fd9c10a0157a639ff94ee04ede9ee55bfd26be6e5d5&=&format=webp&quality=lossless&width=810&height=573](https://media.discordapp.net/attachments/1304166362091884597/1340802491297566801/image.png?ex=67b3af20&is=67b25da0&hm=84ac63d67071c75f54d1111b951835c7d0eb5382362609c7ce898635cea0406c&=&format=webp&quality=lossless&width=810&height=572))
+![Mango Unlocker UI](https://cdn.discordapp.com/attachments/1304166362091884597/1340802491297566801/image.png?ex=67b3af20&is=67b25da0&hm=84ac63d67071c75f54d1111b951835c7d0eb5382362609c7ce898635cea0406c&)
 
 ## 🚀 **Key Features**
 
