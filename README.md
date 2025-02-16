@@ -15,8 +15,8 @@ Mango Unlocker lets you add almost any game and dlc to your Steam library with j
 ### 2. **Direct Downloads from Steam Servers**
 No need for external downloads or unreliable sources. Mango Unlocker tricks Steam into recognizing the games as owned, allowing you to download them directly from Steam's secure servers.
 
-![Download Process](https://media.discordapp.net/attachments/712808939384995950/1336580069262626827/image.png?ex=67a452b0&is=67a30130&hm=b615b3c950d1ef7c1f4c2faa0342e4cb9e019a92db4d57ab6bdc0bd17edeac05&=&format=webp&quality=lossless&width=810&height=455)
-![Download Process](https://media.discordapp.net/attachments/712808939384995950/1336580069774200902/image.png?ex=67a452b1&is=67a30131&hm=6fbcd78e1609df040c4f17ae05eaba34c684cc0a3d345d3c7deb5a25456be18f&=&format=webp&quality=lossless&width=810&height=455)
+![Download Process](https://cdn.discordapp.com/attachments/712808939384995950/1336580069262626827/image.png?ex=67b37bf0&is=67b22a70&hm=5f482b82acbf184871589326aeded5fee467a6117a7c07fd85fc79bd0ba3d281&)
+![Download Process](https://cdn.discordapp.com/attachments/712808939384995950/1336580069774200902/image.png?ex=67b37bf1&is=67b22a71&hm=a594fc99219379956691d16d4b9c3178ea5e8245caa07cde49f7c25c02bb13aa&)
 
 ### 3. **Multiplayer Fix**
 While locally added games don't support native multiplayer, Mango Unlocker offers a **Multiplayer Fix**. This feature enables multiplayer functionality for any game with multiplayer capabilities.
