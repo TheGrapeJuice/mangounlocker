@@ -1,0 +1,7 @@
+manual_game_mappings = {
+    'pogostuck rage with your friends': 'Pogostuck',
+    'pico park': 'PICO_PARK_ONLINE',
+    'tabletop simulator': 'Tabletop Simulator',
+    'carry the glass': 'Glass Carriers',
+    # Add more manual mappings here as needed
+}
