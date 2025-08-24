@@ -38,14 +38,6 @@ Join our vibrant Discord community for quick support, feature requests, and upda
 
 ---
 
-## 🔑 **Key System**
-Mango Unlocker uses a secure key system to ensure safe and authorized access. To obtain your key:
-1. Join our Discord server.
-2. Request your key in the designated channel.
-3. Activate Mango Unlocker with your key.
-
----
-
 ## 🗑️ **Removing Games from Your Library**
 To remove games:
 1. Open Mango Unlocker.
