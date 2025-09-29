@@ -49,7 +49,7 @@ To remove games:
 
 ## 📢 **Stay Updated**
 For updates, support, and community interaction, don’t forget to:
-- Join our [Discord Community](https://discord.gg/WjuJjp6vVc)
+- Join our [Discord Community](https://discord.gg/zhrmxGax7h)
 - Follow development updates in the #announcements channel
 
 ---
